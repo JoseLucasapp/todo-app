@@ -1,7 +1,7 @@
 # TODO APP
 Todo app created using MERN tecnologies
 
-##Backend
+## Backend
 <h3><b>NodeJs + MongoDB</b></h3>
-##Frontend
+## Frontend
 <h3><b>ReactJS</b></h3>
